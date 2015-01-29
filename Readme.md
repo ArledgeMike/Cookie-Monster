@@ -1,6 +1,6 @@
 ﻿Cookie Monster version 0.1 chocolate chip
 ===========
-<img src ="https://raw.githubusercontent.com/ArledgeMike/meatshot/master/images/meat-shot-cover.png" />
+<img src ="https://raw.githubusercontent.com/ArledgeMike/Cookie-Monster/master/images/cookiemonster.jpg" />
 
 
 <h2>Cookie Monster</h2> <p>Version .1 - chocolate chip</p>
