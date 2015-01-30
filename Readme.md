@@ -1,9 +1,9 @@
-﻿Cookie Monster version 0.1 chocolate chip
+﻿Cookie Monster version 1.0 chocolate chip
 ===========
 <img src ="https://raw.githubusercontent.com/ArledgeMike/Cookie-Monster/master/images/cookiemonster.jpg" />
 
 
-<h2>Cookie Monster</h2> <p>Version .1 - chocolate chip</p>
+<h2>Cookie Monster</h2> <p>Version 1.0 - chocolate chip</p>
 <p>javascript/jquery browser cookie manager.</p>
 
 <h4>Dependencies</h4>
