@@ -17,4 +17,4 @@
 
 
 <h3>Changes</h3>
-<p>5-14-2015 Trimming of keys so no whitespace exists when get_cookies is called. Also added "Path" param to set_cookie methods to allow passing of cookie.</p>
+<p><b>5-14-2015:</b> Trimming of keys so no whitespace exists when get_cookies is called. Also added "Path" param to set_cookie methods to allow passing of cookie.</p>
